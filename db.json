@@ -1,1 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Sunset Beach",
+    "photo": "https://example.com/sunset-beach.jpg",
+    "price": "1000",
+    "stayDetails": "Enjoy stunning sunsets at this beautiful beach."
+  },
+  {
+    "id": 2,
+    "name": "Paradise Beach",
+    "photo": "https://example.com/paradise-beach.jpg",
+    "price": "1500",
+    "stayDetails": "Experience a slice of paradise at this pristine beach."
+  },
+  {
+    "id": 3,
+    "name": "Golden Sands Beach",
+    "photo": "https://example.com/golden-sands-beach.jpg",
+    "price": "2000",
+    "stayDetails": "Relax on the golden sands of this breathtaking beach."
+  },
+  {
+    "id": 4,
+    "name": "Tropical Cove",
+    "photo": "https://example.com/tropical-cove.jpg",
+    "price": "1200",
+    "stayDetails": "Immerse yourself in the tropical beauty of this secluded cove."
+  },
+  {
+    "id": 5,
+    "name": "Crystal Bay",
+    "photo": "https://example.com/crystal-bay.jpg",
+    "price": "1800",
+    "stayDetails": "Discover crystal clear waters and pristine white sands at this bay."
+  },
+  {
+    "id": 6,
+    "name": "Sandy Shores",
+    "photo": "https://example.com/sandy-shores.jpg",
+    "price": "900",
+    "stayDetails": "Unwind on the soft sandy shores of this tranquil beach."
+  },
+  {
+    "id": 7,
+    "name": "Azure Coastline",
+    "photo": "https://example.com/azure-coastline.jpg",
+    "price": "1600",
+    "stayDetails": "Experience the beauty of the azure coastline at this picturesque beach."
+  },
+  {
+    "id": 8,
+    "name": "Palm Paradise",
+    "photo": "https://example.com/palm-paradise.jpg",
+    "price": "2000",
+    "stayDetails": "Indulge in a luxurious stay amidst the palm-fringed paradise."
+  },
+  {
+    "id": 9,
+    "name": "Secret Hideaway",
+    "photo": "https://example.com/secret-hideaway.jpg",
+    "price": "1400",
+    "stayDetails": "Escape to this secret hideaway and embrace serenity and seclusion."
+  },
+  {
+    "id": 10,
+    "name": "Serenity Beach",
+    "photo": "https://example.com/serenity-beach.jpg",
+    "price": "1700",
+    "stayDetails": "Find peace and tranquility at this serene and untouched beach."
+  }
+]
 
